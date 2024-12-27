@@ -69,4 +69,4 @@ def read_requirements(dependencies_file="requirements.json"):
 
     # Remove o arquivo temporário
     os.remove(temp_requirements)
-    print("Projeto inicializado com sucesso!")
+    print("Dependências lidas e instaladas com sucesso!")
