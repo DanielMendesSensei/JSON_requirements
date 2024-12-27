@@ -2,7 +2,7 @@
 
 ## ❇️Last Update
 
-Versão 1.0.0 -> build: Release!
+Versão 1.0.2 -> build: Release on PyPl!
 
 ## 🧾Descrição
 

@@ -12,6 +12,8 @@
 /.venv
 /.egg
 /*.ai
+MANIFEST.in
+pyproject.toml
 
 # Design UI/UX
 /UI-UX

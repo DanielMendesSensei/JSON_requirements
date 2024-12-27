@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+JSON_requirements/__init__.py
+JSON_requirements/manager.py
+JSON_requirements.egg-info/PKG-INFO
+JSON_requirements.egg-info/SOURCES.txt
+JSON_requirements.egg-info/dependency_links.txt
+JSON_requirements.egg-info/top_level.txt
+tests/__init__.py
+tests/test_JSON.py
