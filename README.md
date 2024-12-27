@@ -2,7 +2,7 @@
 
 ## ❇️Last Update
 
-Versão 1.0.2 -> build: Release on PyPl!
+Versão 1.0.3 -> fix: Library Name
 
 ## 🧾Descrição
 

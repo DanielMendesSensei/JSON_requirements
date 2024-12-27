@@ -30,8 +30,7 @@ def export_dependencies(output_file: str = "requirements.json"):
 def convert_json_to_txt(input_file: str = "requirements.json", output_file: str = "requirements.txt"):
     """
     Lê um arquivo JSON de dependências e converte para um arquivo requirements.txt.
-
-    AQUI CRIAR UMA FUNÇÃO QUE CONVERTE JSON PARA .txt e depois uma que já lê o JSON de requirements para instalar as dependências.
+    
     :param input_file: Nome do arquivo JSON a ser lido.
     :param output_file: Nome do arquivo requirements.txt a ser gerado.
     """

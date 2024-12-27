@@ -14,6 +14,9 @@
 /*.ai
 MANIFEST.in
 pyproject.toml
+/dist
+/json_requirements.egg-info
+setup.py
 
 # Design UI/UX
 /UI-UX
