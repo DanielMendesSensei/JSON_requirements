@@ -97,13 +97,7 @@ python -c "from json_requirements import read_requirements; read_requirements('r
 
 A biblioteca inclui testes para validar suas funcionalidades. Para rodar os testes:
 
-1. Certifique-se de que as dependências de desenvolvimento estão instaladas:
-
-   ```bash
-   pip install -r dev-requirements.txt
-   ```
-
-2. Execute os testes:
+1. Execute os testes:
 
    ```bash
    python -m unittest discover -s tests
@@ -114,7 +108,7 @@ Exemplo de saída esperada:
 ```
 ..
 ----------------------------------------------------------------------
-Ran 2 tests in 0.178s
+Ran 3 tests in 0.178s
 
 OK
 ```
