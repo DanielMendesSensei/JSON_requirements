@@ -2,7 +2,7 @@ import unittest
 import os
 import json
 from unittest.mock import patch
-from JSON_requirements.manager import export_dependencies, convert_json_to_txt, read_requirements
+from json_requirements.manager import export_dependencies, convert_json_to_txt, read_requirements
 
 class TestDependencyManager(unittest.TestCase):
 
